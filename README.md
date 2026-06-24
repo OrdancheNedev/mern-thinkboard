@@ -4,7 +4,7 @@ A full-stack Note application built using the MERN (MongoDB, Express.js, React, 
 
 ## 🚀 Live Demo
 
-You can view the deployed application here: [MERN Thinkboard](https://mern-thinkboard-ck7r.onrender.com/)
+You can view the deployed application here: [MERN Thinkboard](https://mern-thinkboard-q7z4.onrender.com/)
 
 ## ✨ Features
 
